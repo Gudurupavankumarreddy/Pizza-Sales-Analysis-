@@ -112,8 +112,7 @@ This dashboard helps:
 
 ---
 
-## 📸 Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here)
 
-Example:
+
+
